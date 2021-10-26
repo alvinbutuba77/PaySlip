@@ -1,3 +1,3 @@
 # 
-DIT 202 Exercise payroll and quadratic
+DIT 202 Exercise:payroll and quadratic
 1.
