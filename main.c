@@ -44,7 +44,7 @@ int main()
     }
 
     gross = normal_pay + overtime_pay;
-    tax   = 0.16 * gross;
+    tax   = 0.30 * gross;
     net   = gross - tax;
 
     //print payslip
